@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Data Science Projects
 
-You can use the [editor on GitHub](https://github.com/cbarlow6/cbarlow6.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Project 1: Natural Language Processing: Project Overview](https://github.com/cbarlow6/Natural_Language_Processing)
+Tobacco companies employ social media to market their products to youth and young adults. Cessation and prevention campaigns require an understanding of how this population communicates about and uses these products. A key challenge for surveillance of the products and understanding their patterns of use is the diverse and nonstandard nomenclature for the devices (Alexander et al. 2016). These devices are referred to, by the companies themselves, and by consumers, as “e-cigarettes,” “e-cigs,” “cigalikes,” “e-hookahs,” “mods,” “vape pens,” “vapes,” and “tank systems.” 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbarlow6/cbarlow6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We hope to gain insight into tobacco marketing and patterns of use by analyzing social media platforms. Our project focuses on smoking among youth and young adults, and we believe Reddit is a platform used by this group. We wish to learn how tobacco companies communicate with this population and how this population communicates among itself on the subject of e-cigarettes. 
