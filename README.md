@@ -5,6 +5,6 @@ Tobacco companies employ social media to market their products to youth and youn
 
 We hope to gain insight into tobacco marketing and patterns of use by analyzing social media platforms. Our project focuses on smoking among youth and young adults, and we believe Reddit is a platform used by this group. We wish to learn how tobacco companies communicate with this population and how this population communicates among itself on the subject of e-cigarettes. 
 
-![WordCloud](images/wordcloud.png)
+![WordCloud](images/wordcloud5.png)
 
 ![WordCorrelation](images/wordcorrelation5.png)
