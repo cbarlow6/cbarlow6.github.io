@@ -7,4 +7,4 @@ We hope to gain insight into tobacco marketing and patterns of use by analyzing 
 
 ![WordCloud](images/NLP%20word%20cloud2.png)
 
-![WordCorrelation](images/WordCorrelation3.png)
+![WordCorrelation](images/wordcorrelation4.png)
