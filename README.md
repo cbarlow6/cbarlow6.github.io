@@ -8,3 +8,15 @@ We hope to gain insight into tobacco marketing and patterns of use by analyzing 
 ![WordCloud](images/wordcloud5.png)
 
 ![WordCorrelation](images/wordcorrelation5.png)
+
+### [Project 2: Data Wrangling - 20newgroups: Project Overview](https://github.com/cbarlow6/newsgroups)
+ The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly 
+ across 20 different newsgroups. http://qwone.com/~jason/20Newsgroups/
+
+As a graduate research assistant, I used the 20news-bydate-test dataset to transform and clean text documents for a text mining project. [Developing insights from social media using semantic lexical chains to mine short text structures](https://www.sciencedirect.com/science/article/pii/S016792361930171X)
+* Read all 7532 texts documents from 20 topic folders into one dataframe using R. 
+* Remove new lines, tabs, & carriage returns 
+* Transform to necessary format (topic, post_no, text) 
+* Write dataframe to csv
+
+![newsgroups_excel](https://github.com/cbarlow6/cbarlow6.github.io/blob/master/images/newsgroup%20excel%20file.png)
