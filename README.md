@@ -1,4 +1,4 @@
-![Analytics](images/data_analytics_image3.png)
+![Analytics](data_analytics_image3.png)
 
 ## Catresa's Projects
 
