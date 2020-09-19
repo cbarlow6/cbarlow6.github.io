@@ -1,3 +1,5 @@
+![Analytics](images/data_analytics_image2.png)
+
 ## Catresa's Projects
 
 ### [Project 1: Natural Language Processing - E-cigarette Subreddits: Project Overview](https://github.com/cbarlow6/Natural_Language_Processing)
