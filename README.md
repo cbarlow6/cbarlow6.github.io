@@ -19,4 +19,4 @@ As a graduate research assistant, I used the 20news-bydate-test dataset to trans
 * Transform to necessary format (topic, post_no, text) 
 * Write dataframe to csv
 
-![newsgroups_excel](https://github.com/cbarlow6/cbarlow6.github.io/blob/master/images/newsgroup%20excel%20file.png)
+![newsgroups_excel](images/newsgroup_excel_file.png)
