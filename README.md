@@ -1,4 +1,4 @@
-## Data Science Projects
+## Catresa's Projects
 
 ### [Project 1: Natural Language Processing - E-cigarette Subreddits: Project Overview](https://github.com/cbarlow6/Natural_Language_Processing)
 Tobacco companies employ social media to market their products to youth and young adults. Cessation and prevention campaigns require an understanding of how this population communicates about and uses these products. A key challenge for surveillance of the products and understanding their patterns of use is the diverse and nonstandard nomenclature for the devices (Alexander et al. 2016). These devices are referred to, by the companies themselves, and by consumers, as “e-cigarettes,” “e-cigs,” “cigalikes,” “e-hookahs,” “mods,” “vape pens,” “vapes,” and “tank systems.” 
